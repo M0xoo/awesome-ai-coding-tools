@@ -521,6 +521,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 
 ---
+- **[wisp](https://github.com/M0xoo/wisp)** – Runs Claude Code, Codex, opencode and other coding agents in the background, each task in its own git worktree, and hands back a one-screen report (diff, tests, PR button) instead of the transcript.
 
 ## AI Frameworks and SDKs
 
